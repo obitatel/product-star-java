@@ -1,3 +1,2 @@
-This is text string in file 2
-
+This is text string in file 3
 More text added.
